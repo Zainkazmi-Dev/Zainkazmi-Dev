@@ -9,7 +9,7 @@ Welcome to my portfolio! Here you can see some of my recent frontend projects an
 
 ### 1️⃣ Transfer Travel
 **Description:** A modern travel booking platform with interactive UI for searching and booking transfers.  
-**Tech Stack:** React, TailwindCSS, Bootstrap, REST APIs  
+**Tech Stack:** Angular v8, TailwindCSS, Bootstrap, REST APIs  
 **Live Repo:** [GitHub Link](https://github.com/Zainkazmi-Dev/TransferTravel)  
 
 ### 2️⃣ AI CRM
