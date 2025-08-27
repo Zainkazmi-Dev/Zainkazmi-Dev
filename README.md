@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zain Shah
+# 👋 Hi, I'm Zain ul Iba
 **Frontend Developer | React | Angular | JavaScript | TypeScript**
 
 Welcome to my portfolio! Here you can see some of my recent frontend projects and the technologies I work with.
