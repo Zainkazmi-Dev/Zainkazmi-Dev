@@ -8,13 +8,15 @@ Welcome to my portfolio! Here you can see some of my recent frontend projects an
 ## 🌟 Projects
 
 ### 1️⃣ Transfer Travel
-**Description:** A modern travel booking platform built with Angular 8 for searching and booking transfers.  
-**Tech Stack:** Angular 8, TypeScript, Bootstrap, REST APIs  
+**Description:**  
+Maintained and enhanced UI components for a responsive Angular 8 web application, ensuring consistency across mobile and desktop views. Fixed UI/UX issues and bugs, improving overall user experience and visual alignment based on Figma design specifications. Developed and integrated new features and functionalities, optimizing performance and usability. Collaborated with design and development teams to implement scalable and maintainable frontend solutions.
+**Tech Stack:** Angular 8, HTML, SCSS, JavaScript, Bootstrap, GitHub  
 **Live Repo:** [GitHub Link](https://github.com/Zainkazmi-Dev/TransferTravel)  
 
 ### 2️⃣ AI CRM
-**Description:** A smart AI-powered CRM interface built with React for managing clients and calls with real-time voice assistant integration.  
-**Tech Stack:** React, TypeScript, Redux, WebRTC  
+**Description:**  
+Developed a smart AI-powered CRM interface using React, Next.js and TypeScript, managing client data and real-time voice interactions. Implemented modular TSX components for forms, tables, and dashboards. Integrated a real-time AI assistant using WebRTC, allowing users to interact with the system via voice commands. Ensured responsive design and consistent UI across devices while optimizing performance and usability. Collaborated with design and frontend teams to implement maintainable, scalable frontend solutions.
+**Tech Stack:** React, Next.js, TypeScript, Redux  
 **Live Repo:** [GitHub Link](https://github.com/Zainkazmi-Dev/Ai-Crm)  
 
 ---
@@ -23,11 +25,11 @@ Welcome to my portfolio! Here you can see some of my recent frontend projects an
 
 ### Frontend & UI
 - **Languages:** JavaScript, TypeScript, HTML5, CSS3  
-- **Frameworks/Libraries:** Angular 8+, React, Redux  
+- **Frameworks/Libraries:** Angular 8+, React, Redux, Next.js, Vue   
 - **UI/UX Tools:** TailwindCSS, Material UI, Bootstrap, Responsive Design  
 
 ### Tools & Workflow
-Git, GitHub, VSCode, Chrome DevTools, Postman, Agile Methodologies  
+Git, GitHub, VSCode, Chrome DevTools, Postman, Agile Methodologies, Lighthouse  
 
 ### Testing & Quality
 Jest, Cypress, Debugging, Performance Optimization  
