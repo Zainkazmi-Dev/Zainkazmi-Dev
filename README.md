@@ -14,7 +14,7 @@ Welcome to my portfolio! Here you can see some of my recent frontend projects an
 
 ### 2️⃣ AI CRM
 **Description:** A smart AI-powered CRM interface for managing clients and calls with real-time voice assistant integration.  
-**Tech Stack:** React, TypeScript, Redux, WebRTC, OpenAI API (dummy key removed for security)  
+**Tech Stack:** React, Next.js, TypeScript, Redux, WebRTC, OpenAI API (dummy key removed for security)  
 **Live Repo:** [GitHub Link](https://github.com/Zainkazmi-Dev/Ai-Crm)  
 
 ---
